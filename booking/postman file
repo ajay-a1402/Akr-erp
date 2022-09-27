@@ -1,0 +1,24 @@
+http://localhost:8000/users/add
+
+  {
+"username":"19269",
+"hall":"2nd Floor Show Room"
+}
+
+
+http://localhost:8000/bookinghall/add
+
+{
+    "username":"19263",
+   "guestname":"SteveRogers",
+   "purpose":"Casual",
+   "hall":"1st floor show Room",
+   "meetingfrom":"2022-09-30",
+   "meetingto":"2022-10-01",
+   "food":"yes",
+   "fooddetails":"Icecream",
+   "transport":"yes",
+   "transportdetails":"bike"
+}
+
+http://localhost:8000/bookinghall
